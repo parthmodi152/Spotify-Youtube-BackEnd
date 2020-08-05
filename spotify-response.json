@@ -1,0 +1,10 @@
+{
+      "tracks": {
+            "href": "https://api.spotify.com/v1/search?query=track%3ABaby+%28feat.+Ludacris%29+artist%3AJustin+Bieber&type=track&offset=0&limit=20",
+            "items": [],
+            "limit": 20,
+            "next": null,
+            "offset": 0,
+            "previous": null,
+            "total": 0
+      }
